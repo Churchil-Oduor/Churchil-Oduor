@@ -6,4 +6,4 @@
       I am flexible to explore and learn new things. Feel free to reach me
       - 📫 You can Reach me via the mail < churchilokechoduor@gmail.com >
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Churchil-Oduor
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Churchil-Oduor)](https://github.com/anuraghazra/github-readme-stats)
