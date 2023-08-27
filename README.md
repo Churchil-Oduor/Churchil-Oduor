@@ -8,5 +8,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Churchil-Oduor)](https://github.com/anuraghazra/github-readme-stats)
 
-##Language Usage
+##My Language Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Churchil-Oduor&hide_progress=false)
