@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
       - 🔭 I’m currently a student in JKUAT and a Software Engineering Student in ALX Software Engineering Program.
       - 🌱 I’m currently learning C, and Python(Django).
