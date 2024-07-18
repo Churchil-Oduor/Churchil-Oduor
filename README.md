@@ -1,7 +1,7 @@
 ## Hi there 👋
 
       - 🔭 I’m currently a student in JKUAT and a Software Engineering Student in ALX Software Engineering Program.
-      - 🌱 I’m currently learning C, and Python(Django).
+      - 🌱 I’m currently learning C, Rust, Bash and Python(Django).
       - I am flexible to explore and learn new things. Feel free to reach me
       - 📫 You can Reach me via the mail < churchilokechoduor@gmail.com >
 ## Github Stats
